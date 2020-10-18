@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "express": "^4.17.1",
     "leaflet": "^1.7.1",
     "react-icons": "^3.11.0",
     "react-leaflet": "^2.7.0",
@@ -8,5 +9,11 @@
   "devDependencies": {
     "@types/react-leaflet": "^2.5.2",
     "@types/react-router-dom": "^5.1.6"
-  }
+  },
+  "name": "next-level-week-3-happy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GabrielRioo/next-level-week-3-happy.git",
+  "author": "GabrielRioo <Gabrielpaivario@gmail.com>",
+  "license": "MIT"
 }
