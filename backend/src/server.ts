@@ -4,6 +4,8 @@ import './database/connection'
 
 const app = express();
 
+app.use(express.json());
+
 app.get('/users', (req, res) => {
     return res.json({message: "Hello World"});
 });
